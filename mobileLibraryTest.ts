@@ -13,6 +13,10 @@ console.log(libreria.getMobiles());
 console.log(libreria.getLocation());
 console.log(libreria.getName());
 
+console.log(libreria.getTotalPrice());
+
 libreria.printLibrary();
+
+
 
 
